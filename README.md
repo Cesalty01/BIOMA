@@ -1,7 +1,7 @@
 
   # cesaltina
 
-  This is a code bundle for cesaltina. The original project is available at https://www.figma.com/design/2bDnJkz9xqGvKFp0m6YsMQ/cesaltina.
+  This is a code bundle for PAP. The original project is available at https://www.figma.com/design/2bDnJkz9xqGvKFp0m6YsMQ/cesaltina.
 
   ## Running the code
 
